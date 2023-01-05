@@ -27,12 +27,12 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 0px 200px;
+    padding: 50px 200px;
 }
 
-.nav-title {
-    font-weight: 900;
-    font-size: 45;
+.wb-title{
+    font-weight: 800;
+    font-size: 45px;
 }
 
 nav ul {
